@@ -2,6 +2,8 @@
 #EXTM3U
 #EXTINF:-1,Sony
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1,Sony Sab
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
 #EXTINF:-1,Star Plus
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1,Colors
